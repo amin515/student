@@ -1,0 +1,99 @@
+{
+    "student" : [
+        {
+            "id" : 6,
+            "name" : "Nur Amin",
+            "gender" : "male",
+            "father,s name" : "Nur Islam",
+            "mother,s name" : "delwara begum",
+            "class" : "10",
+            "location" : "Bogra",
+            "phone" : "01303292586",
+            "photo" : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t31.18172-8/28070840_1575143285902888_8586340670501505007_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHy7ZQo_73oOGwPVCMfTYiJW_BOjcFXIfJb8E6NwVch8rB1jBH1YAZJRuxUhjw4EbdOqPWDvwebQqeqWhx_UiPn&_nc_ohc=NE72dnoxC8QAX8bscth&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT-F15I-06NbclE5M4-5mfP1okqqs3hKxaToxujib1L_1A&oe=622F75BE",
+
+            "bangla" : 70,
+            "english" : 95,
+            "math" : 65,
+            "science" : 83,
+            "social" : 94,
+            "religion" : 64
+        },
+        {
+            "id" : 7,
+            "name" : "Abu Raihan",
+            "gender" : "male",
+            "father,s name" : "Hazrat ali",
+            "mother,s name" : "Morium akter",
+            "class" : "10",
+            "location" : "Sher pur",
+            "phone" : "01842586576",
+            "photo" : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/271871217_968749704023648_7083403513158516357_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEctDUrheGvpxTJ8mOAr9-oaTj2yJ7shT9pOPbInuyFP4zPxFLftcAIsnnI7DNxn60pJuQFyGOquH1QD2Fi5RRM&_nc_ohc=ZRaMo5p9UvcAX-loByP&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT9EYqb1TM44CjvsLl54qcC2u_dV0K7gp1pNrXOWlbOZtw&oe=620CB2D5",
+
+            "bangla" : 75,
+            "english" : 65,
+            "math" : 85,
+            "science" : 80,
+            "social" : 75,
+            "religion" : 68
+        },
+        {
+            "id" : 8,
+            "name" : "abu Sayeed Riday",
+            "gender" : "male",
+            "father,s name" : "Abdus samad",
+            "mother,s name" : "Nafija akter",
+            "class" : "10",
+            "location" : "Cumilla",
+            "phone" : "01509565825",
+            "photo" : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/41229757_369622340242884_6408908022512353280_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFyZmtH0qBTjr8px81B_nZw93ArJrDE3tf3cCsmsMTe104LhEcmU7f7OZvvY8d-QulYIXXs0G5ZsHX1y6I-0PB-&_nc_ohc=qV-0pt4_NRAAX9EhG1b&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_k2WefdVbH8foAQiB_9JElFb2I-zXBiD-hVcZkOjdXZw&oe=622BC08C",
+
+            "bangla" : 75,
+            "english" : 62,
+            "math" : 49,
+            "science" : 78,
+            "social" : 75,
+            "religion" : 59
+        },
+        {
+            "id" : 9,
+            "name" : "Toyhidul Islam Achem",
+            "gender" : "male",
+            "father,s name" : "Abu bakkar",
+            "mother,s name" : "Minara begum",
+            "class" : "10",
+            "location" : "Dhaka",
+            "phone" : "01756502132",
+            "photo" : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/116560758_305630847344605_8606959826502419062_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFpcdOSLN-dMwdRGgutX5_E2pwTbI-HYRbanBNsj4dhFlvGecUfoWiSxxacr-DS4q1vqPAxwsw2PVJmqzCjq5DK&_nc_ohc=XXkXyFYZd98AX-QM2sf&tn=OOKMou4riNBUJdSY&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT9ZimGuL2uwT_9sWeX-U1g5g59GhpH_7CuMrNM1IE6gig&oe=622EF48F",
+  
+            "bangla" : 65,
+            "english" : 55,
+            "math" : 65,
+            "science" : 80,
+            "social" : 70,
+            "religion" : 59
+
+        },
+        {
+          "id" : 10,
+          "name" : "Mamun Islam",
+          "gender" : "male",
+          "father,s name" : "Nur Islam",
+          "mother,s name" : "Rashida",
+          "class" : "10",
+          "location" : "Rangpur",
+          "phone" : "01756502132",
+          "photo" : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/249641635_1389938198088330_3663954657314409459_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEJMJt6AjfJqRkB7juva6Joz4jQm-6YpLfPiNCb7piktywghYSlkaZLT0np7tZNGekRWXYjJV2TMJVdLHvTlR1f&_nc_ohc=4UAxeZzGnKIAX_bxm1i&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_IYE96cWd8v1nOfK16iNr3rNCmH1MyQYn_pTcM7oXDNQ&oe=620C2F99",
+
+          "bangla" : 60,
+          "english" : 50,
+          "math" : 50,
+          "science" : 50,
+          "social" : 50,
+          "religion" : 50
+
+        }
+        
+        
+    ]
+
+}

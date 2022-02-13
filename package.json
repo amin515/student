@@ -1,0 +1,14 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nuramin": "json-server --watch db.json --port 4050"
+  },
+  "author": "amin1010",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
