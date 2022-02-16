@@ -1,11 +1,11 @@
 {
     "student" : [
         {
-            "id" : 6,
+            "id" : 1,
             "name" : "Nur Amin",
             "gender" : "male",
-            "father,s name" : "Nur Islam",
-            "mother,s name" : "delwara begum",
+            "father-name" : "Nur Islam",
+            "mother-name" : "delwara begum",
             "class" : "10",
             "location" : "Bogra",
             "phone" : "01303292586",
@@ -19,11 +19,11 @@
             "religion" : 64
         },
         {
-            "id" : 7,
+            "id" : 2,
             "name" : "Abu Raihan",
             "gender" : "male",
-            "father,s name" : "Hazrat ali",
-            "mother,s name" : "Morium akter",
+            "father-name" : "Hazrat ali",
+            "mother-name" : "Morium akter",
             "class" : "10",
             "location" : "Sher pur",
             "phone" : "01842586576",
@@ -37,11 +37,11 @@
             "religion" : 68
         },
         {
-            "id" : 8,
+            "id" : 3,
             "name" : "abu Sayeed Riday",
             "gender" : "male",
-            "father,s name" : "Abdus samad",
-            "mother,s name" : "Nafija akter",
+            "father-name" : "Abdus samad",
+            "mother-name" : "Nafija akter",
             "class" : "10",
             "location" : "Cumilla",
             "phone" : "01509565825",
@@ -55,11 +55,11 @@
             "religion" : 59
         },
         {
-            "id" : 9,
+            "id" : 4,
             "name" : "Toyhidul Islam Achem",
             "gender" : "male",
-            "father,s name" : "Abu bakkar",
-            "mother,s name" : "Minara begum",
+            "father-name" : "Abu bakkar",
+            "mother-name" : "Minara begum",
             "class" : "10",
             "location" : "Dhaka",
             "phone" : "01756502132",
@@ -74,11 +74,11 @@
 
         },
         {
-          "id" : 10,
+          "id" : 5,
           "name" : "Mamun Islam",
           "gender" : "male",
-          "father,s name" : "Nur Islam",
-          "mother,s name" : "Rashida",
+          "father-name" : "Nur Islam",
+          "mother-name" : "Rashida",
           "class" : "10",
           "location" : "Rangpur",
           "phone" : "01756502132",
